@@ -1,5 +1,5 @@
 
-# MySQL Installation & Basic Commands on Ubuntu
+# MySQL Installation on Ubuntu
 
 This guide covers the installation and initial usage of MySQL Server on an Ubuntu system.
 
